@@ -1,4 +1,8 @@
-# Selection
+---
+layout: cd1
+title: All Selection Puzzles
+---
+# All Selection Puzzles
 
 1.3.6.1.4.1.33097.7.0.2
 

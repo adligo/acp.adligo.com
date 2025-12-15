@@ -50,3 +50,11 @@ This site is hosted by github.com from this repo;
 
 We are using MathJax from these instructions for our math symbols.
 https://docs.mathjax.org/en/latest/basic/mathematics.html#basic-mathematics
+
+<p>
+  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+</p>
+
+<script id="MathJax-script" async
+          src="/assets/js/tex-mml-chtml-mathjax-4.js"></script>

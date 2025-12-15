@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Identification
+layout: cd1
+title: All Identification Puzzles
 ---
 # Identification
 

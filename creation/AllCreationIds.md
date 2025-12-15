@@ -1,4 +1,8 @@
-# Creation Puzzles
+---
+layout: cd1
+title: All Creation Puzzles
+---
+# All Creation Puzzles
 
 These puzzles require you to create something, good luck!
 

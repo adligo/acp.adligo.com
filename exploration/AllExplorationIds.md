@@ -1,4 +1,8 @@
-# Exploration
+---
+layout: cd1
+title: All Exploration Puzzles
+---
+# All Exploration Puzzles
 
 1.3.6.1.4.1.33097.7.0.4
 

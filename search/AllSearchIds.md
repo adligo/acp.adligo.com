@@ -1,4 +1,8 @@
-# Search
+---
+layout: cd1
+title: All Search Puzzles
+---
+# All Search Puzzles
 
 1.3.6.1.4.1.33097.7.0.1
 
