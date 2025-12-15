@@ -20,9 +20,11 @@ We suggest you solve this problem first;
 
 # Performance
 
-### Time Cost O(v log log v)
+### Time Cost 
+`O(v log log v)`
 
-### Space Cost O(v)
+### Space Cost 
+`O(v)`
 
 # Examples
 

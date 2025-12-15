@@ -16,9 +16,11 @@ The data will be provided in pairs of letters, each letter representing a [NodeI
 
 # Performance
 
-### Time Cost O(v log log v)
+### Time Cost 
+`O(v log log v)`
 
-### Space Cost O(v)
+### Space Cost 
+`O(v)`
 
 # Examples
 
