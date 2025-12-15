@@ -2,7 +2,7 @@
 
 1.3.6.1.4.1.33097.7.0.3.60002
 
-Given a [Digraph#1.3.6.1.4.1.33097.1.0.14](https://adligo.github.io/papers.adligo.com/data_structures/abstract/Graphs.html) $G=(V, E)$ with $V$ Vertices(aka [Nodes#1.3.6.1.4.1.33097.1.0.12.0](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks.html#nodes)) and $E$ [Edges#1.3.6.1.4.1.33097.1.0.12.1](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks.html#edges).  Identify the number of [NodeNetworks#1.3.6.1.4.1.33097.1.0.12](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks).
+Given a [Digraph#1.3.6.1.4.1.33097.1.0.14](https://adligo.github.io/papers.adligo.com/data_structures/abstract/Graphs.html) $`\G=(V, E)`$ with $`\V`$ Vertices(aka [Nodes#1.3.6.1.4.1.33097.1.0.12.0](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks.html#nodes)) and $`\E`$ [Edges#1.3.6.1.4.1.33097.1.0.12.1](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks.html#edges).  Identify the number of [NodeNetworks#1.3.6.1.4.1.33097.1.0.12](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks).
 
 ## Pre-Requisite Problems
 
