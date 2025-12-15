@@ -1,7 +1,8 @@
-
+<head>
 <link rel="stylesheet" type="text/css" href="./assets/css/_dark.css" />
 
-# acp.adligo.com
+</head>
+# Adligo Code Puzzles
 This will be Adligo's website for code puzzles.
 
 ### IANA 
