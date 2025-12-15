@@ -75,6 +75,3 @@ d → h
 1
 ```
 
-
-<script id="MathJax-script" async
-          src="tex-mml-chtml-mathjax-4.js"></script>

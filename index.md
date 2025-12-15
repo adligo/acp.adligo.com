@@ -56,5 +56,3 @@ https://docs.mathjax.org/en/latest/basic/mathematics.html#basic-mathematics
   \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
 </p>
 
-<script id="MathJax-script" async
-          src="tex-mml-chtml-mathjax-4.js"></script>
