@@ -13,7 +13,7 @@ The data will be provided in pairs of letters, each letter representing a [NodeI
 
 ## Code Listing
 
-```
+<code>
 class AdjacencyMapMutant:
 
     def __init__(self, directional: bool):
@@ -44,7 +44,7 @@ def identifyUpstreamOriginNodes(map: AdjacencyMapMutant) -> int:
     :return: 
     """
     return 0
-```
+</code>
 
 # Performance
 
@@ -57,30 +57,30 @@ def identifyUpstreamOriginNodes(map: AdjacencyMapMutant) -> int:
 ### Example A / #001
 ##### Input
 
-```
+<code>
 a → d
 e → f
 d → f
-```
+</code>
 
 ##### Output
 
-```
+<code>
 2
-```
+</code>
 
 ### Example B / #002
 ##### Input
 
-```
+<code>
 a → d
 d → f
 d → h
-```
+</code>
 
 ##### Output
 
-```
+<code>
 1
-```
+</code>
 
