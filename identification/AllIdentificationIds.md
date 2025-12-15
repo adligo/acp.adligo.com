@@ -15,4 +15,4 @@ These are related to this abstract algorithm category;
 
 ### Notes
 
-This page has duplicates which allow referencing by named anchors i.e. [IdentifyNodeNetworks](#IdentifyNodeNetworks)
+This page has duplicates which allow referencing by named anchors i.e. [IdentifyNodeNetworks](#identifynodenetworks)
