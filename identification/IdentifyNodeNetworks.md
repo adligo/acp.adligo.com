@@ -29,30 +29,30 @@ We suggest you solve this problem first;
 ### Example A / #001
 ##### Input
 
-<code>
+<pre class="highlight"><code>
 a → d
 e → f
 d → f
-</code>
+</code></pre>
 
 ##### Output
 
-<code>
+<pre class="highlight"><code>
 1
-</code>
+</code></pre>
 
 ### Example B / #002
 ##### Input
 
-<code>
+<pre class="highlight"><code>
 a → d
 c → f
 d → z
-</code>
+</code></pre>
 
 ##### Output
 
-<code>
+<pre class="highlight"><code>
 3
-</code>
+</code></pre>
 
