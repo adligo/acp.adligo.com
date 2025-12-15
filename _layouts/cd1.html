@@ -62,6 +62,10 @@ layout: compress
       {% include {{ _include_path }} %}
     {% endfor %}
 
+    <!-- There are problems with loading this from GitHub Pages
+      because GitHub Pages adds a directory path, also coludn't 
+      get the raw to work properly from the github.com/adligo/acp.adligo.com repo
+     -->
     <script id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js"></script>
   </body>
 </html>
