@@ -7,7 +7,7 @@ title: Identify Upstream Origin Nodes
 Id 1.3.6.1.4.1.33097.7.0.3.60001
 
 <script id="MathJax-script" async
-          src="/assets/js/tex-mml-chtml-mathjax-4.js"></script>
+          src="tex-mml-chtml-mathjax-4.js"></script>
           
 Given a [Digraph#1.3.6.1.4.1.33097.1.0.14](https://adligo.github.io/papers.adligo.com/data_structures/abstract/Graphs.html) \G=(V, E)\ with \V\ Vertices(aka [Nodes#1.3.6.1.4.1.33097.1.0.12.0](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks.html#nodes)) and \E\ [Edges#1.3.6.1.4.1.33097.1.0.12.1](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks.html#edges).  Identify the number of [UpstreamOriginNodes#1.3.6.1.4.1.33097.1.0.13.1](https://adligo.github.io/papers.adligo.com/data_structures/abstract/DirectedNodeNetworks.html#upstreamoriginnodes).
 

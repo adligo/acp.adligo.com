@@ -57,4 +57,4 @@ https://docs.mathjax.org/en/latest/basic/mathematics.html#basic-mathematics
 </p>
 
 <script id="MathJax-script" async
-          src="/assets/js/tex-mml-chtml-mathjax-4.js"></script>
+          src="tex-mml-chtml-mathjax-4.js"></script>
