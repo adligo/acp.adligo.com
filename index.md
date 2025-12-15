@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cd1
 title: Adligo Code Puzzles
 ---
 
