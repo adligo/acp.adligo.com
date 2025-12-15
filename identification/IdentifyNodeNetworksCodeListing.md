@@ -6,9 +6,11 @@ title: Identify Node Networks Code Listing
 
 ## Code Listing
 
-{% raw %}
-<code>
+<div markdown="1">
+```
+
 class AdjacencyMapMutant:
+
     def __init__(self, directional: bool):
         self.directional = directional
         # map of character to set of character
@@ -33,5 +35,5 @@ class AdjacencyMapMutant:
 def identifyNodeNetworks(map: AdjacencyMapMutant) -> int:
     #Your code goes here
     return 0
-</code>
-{% endraw %}
+```
+</div>
