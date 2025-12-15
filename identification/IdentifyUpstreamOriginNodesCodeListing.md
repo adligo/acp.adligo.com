@@ -7,6 +7,7 @@ title: Identify Upstream Origin Nodes Code Listing
 
 ## Code Listing
 
+{% raw %}
 <code>
 class AdjacencyMapMutant:
     def __init__(self, directional: bool):
@@ -34,5 +35,5 @@ def identifyUpstreamOriginNodes(map: AdjacencyMapMutant) -> int:
     #Your code goes here
     return 0
 </code>
-
+{% endraw %}
 

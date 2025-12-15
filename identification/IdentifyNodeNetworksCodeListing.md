@@ -6,6 +6,7 @@ title: Identify Node Networks Code Listing
 
 ## Code Listing
 
+{% raw %}
 <code>
 class AdjacencyMapMutant:
     def __init__(self, directional: bool):
@@ -33,3 +34,4 @@ def identifyNodeNetworks(map: AdjacencyMapMutant) -> int:
     #Your code goes here
     return 0
 </code>
+{% endraw %}
