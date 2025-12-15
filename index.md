@@ -12,7 +12,7 @@ These puzzles will be uniquely identified by IANA numbers under;
 
 ## Categories
 ##### 1.3.6.1.4.1.33097.7.0
-The puzzles will be broken down into a matrix of categories based on what they generally do (aka output).  They will appear under this IANA number.
+The puzzles will be broken down into a matrix of categories based on what they generally do (aka output).  They will appear under the above IANA number.
 
 
 ##### [Creation#1.3.6.1.4.1.33097.7.0.0](creation/AllCreationIds.md)
