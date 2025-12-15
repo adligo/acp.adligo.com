@@ -2,6 +2,7 @@
 layout: cd1
 title: Identify Upstream Origin Nodes
 ---
+
 # IdentifyUpstreamOriginNodes
 
 Id 1.3.6.1.4.1.33097.7.0.3.60001
@@ -15,7 +16,6 @@ The data will be provided in pairs of letters, each letter representing a [NodeI
 
 <code>
 class AdjacencyMapMutant:
-
     def __init__(self, directional: bool):
         self.directional = directional
         # map of character to set of character
@@ -38,11 +38,7 @@ class AdjacencyMapMutant:
         return self.nodeIdsToEdgeNodeIds[fromNodeId]
         
 def identifyUpstreamOriginNodes(map: AdjacencyMapMutant) -> int:
-    """
-    Your code goes here
-    :param map: The adjacency map with the populated values
-    :return: 
-    """
+    #Your code goes here
     return 0
 </code>
 

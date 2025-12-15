@@ -20,7 +20,6 @@ We suggest you solve this problem first;
 
 <code>
 class AdjacencyMapMutant:
-
     def __init__(self, directional: bool):
         self.directional = directional
         # map of character to set of character
@@ -43,11 +42,7 @@ class AdjacencyMapMutant:
         return self.nodeIdsToEdgeNodeIds[fromNodeId]
         
 def identifyNodeNetworks(map: AdjacencyMapMutant) -> int:
-    """
-    Your code goes here
-    :param map: The adjacency map with the populated values
-    :return: 
-    """
+    #Your code goes here
     return 0
 </code>
 
