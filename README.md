@@ -1,7 +1,8 @@
-<head>
-<link rel="stylesheet" type="text/css" href="./assets/css/_dark.css" />
+---
+layout: default
+title: Adligo Code Puzzles
+---
 
-</head>
 # Adligo Code Puzzles
 This will be Adligo's website for code puzzles.
 
