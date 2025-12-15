@@ -18,7 +18,7 @@ We suggest you solve this problem first;
 
 ## Code Listing
 
-```
+<code>
 class AdjacencyMapMutant:
 
     def __init__(self, directional: bool):
@@ -49,7 +49,7 @@ def identifyNodeNetworks(map: AdjacencyMapMutant) -> int:
     :return: 
     """
     return 0
-```
+</code>
 
 # Performance
 
@@ -62,30 +62,30 @@ def identifyNodeNetworks(map: AdjacencyMapMutant) -> int:
 ### Example A / #001
 ##### Input
 
-```
+<code>
 a → d
 e → f
 d → f
-```
+</code>
 
 ##### Output
 
-```
+<code>
 1
-```
+</code>
 
 ### Example B / #002
 ##### Input
 
-```
+<code>
 a → d
 c → f
 d → z
-```
+</code>
 
 ##### Output
 
-```
+<code>
 3
-```
+</code>
 
