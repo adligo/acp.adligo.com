@@ -25,30 +25,30 @@ The data will be provided in pairs of letters, each letter representing a [NodeI
 ### Example A / #001
 ##### Input
 
-<code>
+<pre class="highlight"><code>
 a → d
 e → f
 d → f
-</code>
+</code></pre>
 
 ##### Output
 
-<code>
+<pre class="highlight"><code>
 2
-</code>
+</code></pre>
 
 ### Example B / #002
 ##### Input
 
-<code>
+<pre class="highlight"><code>
 a → d
 d → f
 d → h
-</code>
+</code></pre>
 
 ##### Output
 
-<code>
+<pre class="highlight"><code>
 1
-</code>
+</code></pre>
 
