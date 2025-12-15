@@ -25,30 +25,34 @@ The data will be provided in pairs of letters, each letter representing a [NodeI
 ### Example A / #001
 ##### Input
 
+<div class="language-plaintext highlighter-rouge">
 <pre class="highlight"><code>
 a → d
 e → f
 d → f
-</code></pre>
+</code></pre></div>
 
 ##### Output
 
+<div class="language-plaintext highlighter-rouge">
 <pre class="highlight"><code>
 2
-</code></pre>
+</code></pre></div>
 
 ### Example B / #002
 ##### Input
 
+<div class="language-plaintext highlighter-rouge">
 <pre class="highlight"><code>
 a → d
 d → f
 d → h
-</code></pre>
+</code></pre></div>
 
 ##### Output
 
+<div class="language-plaintext highlighter-rouge">
 <pre class="highlight"><code>
 1
-</code></pre>
+</code></pre></div>
 

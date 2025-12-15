@@ -29,30 +29,34 @@ We suggest you solve this problem first;
 ### Example A / #001
 ##### Input
 
+<div class="language-plaintext highlighter-rouge">
 <pre class="highlight"><code>
 a → d
 e → f
 d → f
-</code></pre>
+</code></pre></div>
 
 ##### Output
 
+<div class="language-plaintext highlighter-rouge">
 <pre class="highlight"><code>
 1
-</code></pre>
+</code></pre></div>
 
 ### Example B / #002
 ##### Input
 
+<div class="language-plaintext highlighter-rouge">
 <pre class="highlight"><code>
 a → d
 c → f
 d → z
-</code></pre>
+</code></pre></div>
 
 ##### Output
 
+<div class="language-plaintext highlighter-rouge">
 <pre class="highlight"><code>
 3
-</code></pre>
+</code></pre></div>
 
