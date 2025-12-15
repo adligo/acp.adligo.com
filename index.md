@@ -49,7 +49,7 @@ This site is hosted by github.com from this repo;
 ##### Math Conventions
 
 We are using MathJax from these instructions for our math symbols.
-https://docs.mathjax.org/en/latest/basic/mathematics.html#basic-mathematics
+[https://docs.mathjax.org/en/latest/basic/mathematics.html#basic-mathematics](https://docs.mathjax.org/en/latest/basic/mathematics.html#basic-mathematics)
 
 <p>
   When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
