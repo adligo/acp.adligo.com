@@ -11,6 +11,8 @@ Given a [Digraph#1.3.6.1.4.1.33097.1.0.14](https://adligo.github.io/papers.adlig
 
 The data will be provided in pairs of letters, each letter representing a [NodeId#1.3.6.1.4.1.33097.1.0.12.0.0](https://adligo.github.io/papers.adligo.com/data_structures/abstract/NodeNetworks.html#nodeids).  In addition, an AdjacencyMap class will be provided as follows.
 
+## Code Listing
+
 ```
 class AdjacencyMapMutant:
 
@@ -43,6 +45,7 @@ def identifyUpstreamOriginNodes(map: AdjacencyMapMutant) -> int:
     """
     return 0
 ```
+
 # Performance
 
 ### Time Cost O(v log log v)
@@ -53,24 +56,30 @@ def identifyUpstreamOriginNodes(map: AdjacencyMapMutant) -> int:
 
 ### Example A / #001
 ##### Input
+
 ```
 a → d
 e → f
 d → f
 ```
+
 ##### Output
+
 ```
 2
 ```
 
 ### Example B / #002
 ##### Input
+
 ```
 a → d
 d → f
 d → h
 ```
+
 ##### Output
+
 ```
 1
 ```

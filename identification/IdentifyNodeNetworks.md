@@ -17,6 +17,7 @@ We suggest you solve this problem first;
 [IdentifyUpstreamOriginNodes#1.3.6.1.4.1.33097.7.0.3.60001](IdentifyUpstreamOriginNodes.md)
 
 ## Code Listing
+
 ```
 class AdjacencyMapMutant:
 
@@ -49,6 +50,7 @@ def identifyNodeNetworks(map: AdjacencyMapMutant) -> int:
     """
     return 0
 ```
+
 # Performance
 
 ### Time Cost O(v log log v)
@@ -59,24 +61,30 @@ def identifyNodeNetworks(map: AdjacencyMapMutant) -> int:
 
 ### Example A / #001
 ##### Input
+
 ```
 a → d
 e → f
 d → f
 ```
+
 ##### Output
+
 ```
 1
 ```
 
 ### Example B / #002
 ##### Input
+
 ```
 a → d
 c → f
 d → z
 ```
+
 ##### Output
+
 ```
 3
 ```
